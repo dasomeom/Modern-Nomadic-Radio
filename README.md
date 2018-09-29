@@ -1,4 +1,7 @@
 # Modern-Nomadic-Radio
+
+![Alt text](https://github.com/deom119/Modern-Nomadic-Radio/blob/master/data/Screen%20Shot%202018-09-29%20at%2012.20.25%20AM.png "Prototype Image")
+
 It is a “sound board” prototype with Processing, Beads, ControlP5, and a text-to-speech library that implements the sound scheme for a modern context-aware version of the Nomadic Radio (NR) project
 
 I designed my sound board with a wish to provide selective notifications to the users.
